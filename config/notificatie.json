@@ -7,7 +7,7 @@
     "template": "notificatie-voc.j2",
     "title": "Notificatie",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
-    "publication-date": "07-02-2018",
+    "publication-date": "2019-02-07",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Notificatie",
     "site": "site-skeleton",
